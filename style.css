@@ -40,7 +40,7 @@ a {
     
     a {
         font-size: 18pt;
-        margin: 60vh 36vw auto 37vw;
+        margin: 60vh 35vw auto 38vw;
     }
 }
 
@@ -48,12 +48,12 @@ a {
 @media (max-width: 768px) {
     p {
         font-size: 11pt;
-        margin: 33vh 10vw auto 10vw;
+        margin: 30vh 10vw auto 10vw;
     }
     
     a {
         font-size: 10pt;
-        margin: 55vh 31vw auto 36vw;
+        margin: 55vh 29vw auto 30vw;
         text-shadow: 2px 2px 5px white;
     }
 }
