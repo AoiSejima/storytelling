@@ -29,3 +29,31 @@ a {
     margin: 65vh 42vw auto 43vw;
     z-index: 2;
 }
+
+/* Tablet */
+@media (max-width: 1024px) {
+    p {
+        font-size: 20pt;
+        margin: 44vh 15vw auto 15vw;
+    }
+    
+    a {
+        font-size: 15pt;
+        margin: 63vh 40vw auto 41vw;
+    }
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+    p {
+        font-size: 9pt;
+        margin: 46vh 10vw auto 10vw;
+    }
+    
+    a {
+        font-size: 8pt;
+        margin: 62vh 33vw auto 38vw;
+        text-shadow: 2px 2px 5px white;
+    }
+}
+
