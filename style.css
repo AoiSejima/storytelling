@@ -34,25 +34,25 @@ a {
 @media (max-width: 1024px) {
     p {
         font-size: 20pt;
-        margin: 44vh 15vw auto 15vw;
+        margin: 38vh 15vw auto 15vw;
     }
     
     a {
-        font-size: 15pt;
-        margin: 63vh 40vw auto 41vw;
+        font-size: 18pt;
+        margin: 62vh 40vw auto 41vw;
     }
 }
 
 /* Mobile */
 @media (max-width: 768px) {
     p {
-        font-size: 9pt;
-        margin: 46vh 10vw auto 10vw;
+        font-size: 10pt;
+        margin: 35vh 10vw auto 10vw;
     }
     
     a {
         font-size: 8pt;
-        margin: 62vh 33vw auto 38vw;
+        margin: 55vh 33vw auto 38vw;
         text-shadow: 2px 2px 5px white;
     }
 }
