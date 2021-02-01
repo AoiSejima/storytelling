@@ -48,13 +48,13 @@ a {
 @media (max-width: 768px) {
     p {
         font-size: 11pt;
-        margin: 33vh 8vw auto 8vw;
+        margin: 36vh 8vw auto 8vw;
         text-shadow: 2px 2px 6px rgb(112, 112, 112);
     }
     
     a {
         font-size: 10pt;
-        margin: 55vh 26vw auto 35vw;
+        margin: 55vh 26vw auto 38vw;
         text-shadow: 2px 2px 5px white;
     }
 }
